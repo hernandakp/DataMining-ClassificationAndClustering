@@ -1,2 +1,1 @@
-# DataMining-ClassificationAndClustering
-Data mining: classification and clustering
+# Data Mining: Classification and Clustering
