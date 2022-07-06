@@ -1,10 +1,10 @@
 # Data Mining: Classification and Clustering
 
-1 Dataset: Handphone spesification  
+1 Dataset: Handphone specification  
 2 Dataset: University graduate data by university  
 3 Dataset: Customer data  
 
-Spesifically library:  
+Specifically library:  
 
 Classification:  
 • from sklearn.model_selection import train_test_split  
